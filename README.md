@@ -4,7 +4,7 @@ This repository contains the implementation to reproduce the synthetic data expe
 
 ## Overview
 
-The code compares **DCR (Distribution-Free Calibration for Ranking)** and its stochastic approximation **MDCR** on a controlled synthetic dataset using a RankNet base model.
+The code compares **DCR (Distribution-informed Conformal Ranking)** and its stochastic approximation **MDCR** on a controlled synthetic dataset using a RankNet base model.
 
 ## File Structure
 
